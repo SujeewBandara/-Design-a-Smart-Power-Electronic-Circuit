@@ -1,4 +1,4 @@
-# Design-a-Smart-Power-Electronic-Circuit
+# Design-a-Smart-Power-Electronic-Circuit-for-wave-Energy-Converter
  Innovative Wave Energy Converter with Smart Power Electronics for Stable Energy Harvesting
 
 ## Introduction:
